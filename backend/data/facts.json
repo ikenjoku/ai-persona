@@ -1,0 +1,95 @@
+{
+  "full_name": "Ikechukwu Njoku",
+  "name": "Ike",
+  "current_role": "Software Engineer",
+  "location": "Amsterdam-Centrum, North Holland, Netherlands",
+  "email": "ikeenjoku@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/ikechukwu-njoku",
+  "specialties": [
+    "Full Stack Development",
+    "React & React Native",
+    "Node.js",
+    "System Architecture",
+    "RESTful & GraphQL APIs",
+    "Cloud & Microservices",
+    "Database Systems (Relational & NoSQL)"
+  ],
+  "years_experience": 8,
+  "education": [
+    {
+      "degree": "Bachelor of Medicine, Bachelor of Surgery (MBBS)",
+      "institution": "University of Lagos"
+    },
+    {
+      "degree": "Full Stack Web Development",
+      "institution": "freeCodeCamp",
+      "year": "2016"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Albert Heijn",
+      "role": "Software Engineer",
+      "start_date": "June 2025",
+      "end_date": "Present",
+      "location": "Zaandam, Netherlands"
+    },
+    {
+      "company": "Shell Recharge Solutions",
+      "role": "Software Engineer",
+      "start_date": "May 2023",
+      "end_date": "May 2025",
+      "location": "Amsterdam, Netherlands"
+    },
+    {
+      "company": "Firstup",
+      "role": "Software Engineer",
+      "start_date": "November 2021",
+      "end_date": "May 2023",
+      "location": "San Francisco, USA"
+    },
+    {
+      "company": "Geowox",
+      "role": "Frontend Engineer",
+      "start_date": "January 2021",
+      "end_date": "April 2022",
+      "location": "Dublin, Ireland"
+    },
+    {
+      "company": "botkeeper",
+      "role": "Full Stack Engineer",
+      "start_date": "February 2019",
+      "end_date": "January 2021",
+      "location": "Boston, USA"
+    },
+    {
+      "company": "Andela",
+      "role": "Software Engineer",
+      "start_date": "June 2018",
+      "end_date": "January 2021",
+      "location": "Lagos, Nigeria"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "React Native",
+    "Node.js",
+    "GraphQL",
+    "Ruby on Rails",
+    "MongoDB",
+    "PostgreSQL",
+    "Docker",
+    "AWS",
+    "GitHub",
+    "Python"
+  ],
+  "certifications": [
+    "Meta React Native Specialization",
+    "Meta Front-End Developer Specialization",
+    "Kubernetes and Cloud Native Essentials (LFS250)",
+    "Relational Database V8",
+    "Arc Certified Remote Developer"
+  ]
+}
